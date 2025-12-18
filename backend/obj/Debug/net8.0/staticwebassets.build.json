@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PvT4pIIFEKluTG2a+a6hCqRAscXEB5N7ctAPdmBCE3o=",
+  "Source": "TechFutureCRM.API",
+  "BasePath": "_content/TechFutureCRM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

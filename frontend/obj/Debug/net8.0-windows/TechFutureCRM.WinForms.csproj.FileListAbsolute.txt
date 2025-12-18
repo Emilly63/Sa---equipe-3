@@ -1,0 +1,14 @@
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\bin\Debug\net8.0-windows\TechFutureCRM.WinForms.exe
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\bin\Debug\net8.0-windows\TechFutureCRM.WinForms.dll
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\bin\Debug\net8.0-windows\TechFutureCRM.WinForms.deps.json
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\bin\Debug\net8.0-windows\TechFutureCRM.WinForms.runtimeconfig.json
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\bin\Debug\net8.0-windows\TechFutureCRM.WinForms.pdb
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.AssemblyInfoInputs.cache
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.AssemblyInfo.cs
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.dll
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\refint\TechFutureCRM.WinForms.dll
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.pdb
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\TechFutureCRM.WinForms.genruntimeconfig.cache
+C:\Users\Emilly\OneDrive\Documentos\SA- 3\frontend\obj\Debug\net8.0-windows\ref\TechFutureCRM.WinForms.dll
